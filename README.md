@@ -1,16 +1,23 @@
-## Hi there 👋
+## MERHABA 👋 BEN EMRULLAH AKGÖZ 
+-----------------------------------------
+Bilgi güvenliği öğrencisi
+Aşağıda yaptığım projeleri bulabilirsiniz:
+-----
 
-<!--
-**Emrullahakgz/Emrullahakgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Security Check**  
+WHOIS, Nmap, DNS, MX, DMARC ve Blacklist kontrollerini yapan bir siber güvenlik platformu.  
+🛠️ Flask, Python, MySQL ile geliştirildi.  
+📂 [Projeyi Görüntüle](https://github.com/Emrullahakgz/SecurityCheck.github.io)
 
-Here are some ideas to get you started:
+📄 Makalelerim:
+- [Siber Güvenlikte Yapay Zekânın Önemi]
+- [Security Check Proje Makalesi]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Bana ulaşın: [Emrullahakgz.9@gmail.com]  
+🌐 LınkedIN: (https://www.linkedin.com/in/emrullah-akg%C3%B6z-74613728a/)
+
+
+
+
+
+**Emrullahakgz/Emrullahakgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-
