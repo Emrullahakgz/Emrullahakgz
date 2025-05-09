@@ -20,4 +20,4 @@ WHOIS, Nmap, DNS, MX, DMARC ve Blacklist kontrollerini yapan bir siber güvenlik
 
 
 
-**Emrullahakgz/Emrullahakgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-
+
