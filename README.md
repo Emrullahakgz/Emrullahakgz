@@ -1,6 +1,6 @@
 ## MERHABA 👋 BEN EMRULLAH AKGÖZ 
 -----------------------------------------
-Bilgi güvenliği öğrencisi 
+Bilgi güvenliği 
 ------
 Aşağıda yaptığım projeleri bulabilirsiniz:
 -----
